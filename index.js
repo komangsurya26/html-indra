@@ -1,7 +1,7 @@
-const menuIcon = document.getElementById('menu-icon');
-const navbarMenu = document.querySelector('.navbar');
+// const menuIcon = document.getElementById('menu-icon');
+// const navbarMenu = document.querySelector('.navbar');
 
-menuIcon.addEventListener('click', () => {
-  navbarMenu.classList.toggle('show-menu');
-});
+// menuIcon.addEventListener('click', () => {
+//   navbarMenu.classList.toggle('show-menu');
+// });
 
